@@ -1,2 +1,2 @@
-# springcloudconfig
-This is a sample test for spring cloud config
+# WebHooksDemo
+This is a sample test for WebHooksDemo
